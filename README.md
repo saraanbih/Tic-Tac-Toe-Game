@@ -70,18 +70,8 @@ A simple 2-player Tic-Tac-Toe game where two players can take turns and compete 
 ## **📞 Contact**
 For questions, feedback, or suggestions, feel free to reach out:
 
-- 📧 **Email**: [your-email@example.com]
-- 💼 **LinkedIn**: [https://www.linkedin.com/in/yourprofile]
-- ✨ **GitHub**: [https://github.com/yourusername]
+- 📧 **Email**: [nabihsara8@gmail.com]
+- 💼 **LinkedIn**: [https://www.linkedin.com/in/sara-nabih-4168212a3/]
+- ✈️ **Telegram**: [https://t.me/Sara_Nabih]
 ```
 
----
-
-### Steps to Upload the README to GitHub:
-
-1. Go to your GitHub repository for the **Tic-Tac-Toe Game**.
-2. Create a file named `README.md` in the root directory of your repository.
-3. Paste the content from the template above into the `README.md` file.
-4. Commit the changes to save the `README.md` to your repository.
-
-This **README** should provide a clear explanation of how your Tic-Tac-Toe game works, how to run it, and what the key features are. If you need more details or specific instructions, feel free to modify the template.
